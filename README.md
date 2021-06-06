@@ -1,5 +1,5 @@
 # Eletrica
-Responsive, Jquery interaction
+Responsive website, Jquery interaction
 
 
 Example for responsive website, using CSS @media Rules, 
